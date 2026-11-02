@@ -1,9 +1,0 @@
-{
-  "name": "jhcarpenters",
-  "version": "1.0.0",
-  "description": "Carpenters by Joseph Hachem & Co website",
-  "private": true,
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
-}
